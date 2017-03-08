@@ -8,3 +8,7 @@ Normally I only write NPC Scripts, while I'm also familiar with adding Custom It
 
 rAthena Profile:
 https://rathena.org/board/user/402-llchrisll/
+
+
+ANSON COMMENT:
+this is a learning project for sql in npc script for me.
